@@ -127,9 +127,9 @@ You can contact Paul via:
 ### Simon Whitley
 __Director of Data Engineering & Data Platform MVP @ Advancing Analytics Ltd__
 
-Simon is the technical lead for Adatis, driving their adoption of new architectures and leading Research & Development within the company. He has over a decade of analytics experience, largely within the Microsoft realm and has been pushing distributed cloud architectures for analytics for the past few years.
+Simon is the director of engineering for Advancing Analytics Ltd, driving their adoption of new architectures and leading Research & Development within the company. He has over a decade of analytics experience, largely within the Microsoft realm and has been pushing distributed cloud architectures for analytics for the past few years.
 
-Microsoft Data Platform MVP, Simon runs the SQLSurrey PASS Chapter, speaks at a conferences across the world and user groups throughout the UK and Europe and will happily talk your ear off about the various new approaches we're currently working on.
+Microsoft Data Platform MVP, Simon runs the MS Data London PASS Chapter, speaks at a conferences across the world and user groups throughout the UK and Europe and will happily talk your ear off about the various new approaches we're currently working on.
 
 You can contact Simon by:
 - Email [simon@advancinganalytics.co.uk](mailto:simon@advancinganalytics.co.uk) 
